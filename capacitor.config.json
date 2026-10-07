@@ -1,0 +1,8 @@
+{
+  "appId": "com.clipai.app",
+  "appName": "ClipAI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
